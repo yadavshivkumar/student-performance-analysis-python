@@ -152,14 +152,6 @@ These paths assume that the notebook's working directory is the `notebooks/` fol
 - The Mathematics and Portuguese datasets have different numbers of records and should not automatically be treated as matched student records.
 - The analysis does not establish that any single factor causes better or worse academic performance.
 
-## Future Improvements
-
-- Add interactive dashboards.
-- Explore additional student and family characteristics.
-- Compare more academic performance indicators.
-- Develop a simple web dashboard using Streamlit.
-- Add more detailed statistical analysis.
-- Create a final report with automatically generated findings.
 
 ## Conclusion
 
