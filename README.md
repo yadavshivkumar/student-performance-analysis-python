@@ -71,6 +71,34 @@ The project generates:
 
 The charts are saved in the `visualizations/` directory when the relevant notebook cells are executed.
 
+### Mathematics Grade Distribution
+
+![Mathematics Grade Distribution](Visualizations/mathematics_grade_distribution.png)
+
+### Portuguese Grade Distribution
+
+![Portuguese Grade Distribution](Visualizations/portuguese_grade_distribution.png)
+
+### Average Grade Comparison
+
+![Average Grade Comparison](Visualizations/average_grade_comparison.png)
+
+### Study Time vs Final Grade
+
+![Study Time vs Final Grade](Visualizations/studytime_vs_final_grade.png)
+
+### Absences vs Final Grade
+
+![Absences vs Final Grade](Visualizations/absences_vs_final_grade.png)
+
+### Student Grade Progression
+
+![Student Grade Progression](Visualizations/grade_progression.png)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](Visualizations/correlation_heatmap.png)
+
 
 
 ## Installation Requirements
