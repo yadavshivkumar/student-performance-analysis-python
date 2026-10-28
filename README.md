@@ -166,3 +166,28 @@ These paths assume that the notebook's working directory is the `notebooks/` fol
 This project demonstrates how Python can be used for data cleaning, exploratory data analysis, statistical summaries, and visualization.
 
 It provides an opportunity to practice Pandas, NumPy, Matplotlib, and Seaborn while exploring patterns in student academic performance.
+---
+
+## 📊 Project Visualizations
+
+### 1. Mathematics Grade Distribution
+![Mathematics Grade Distribution](Visualizations/mathematics_grade_distribution.png)
+
+### 2. Portuguese Grade Distribution
+![Portuguese Grade Distribution](Visualizations/portuguese_grade_distribution.png)
+
+### 3. Average Grade Comparison
+![Average Grade Comparison](Visualizations/average_grade_comparison.png)
+
+### 4. Study Time vs Final Grade
+![Study Time vs Final Grade](Visualizations/studytime_vs_final_grade.png)
+
+### 5. Absences vs Final Grade
+![Absences vs Final Grade](Visualizations/absences_vs_final_grade.png)
+
+### 6. Student Grade Progression
+![Student Grade Progression](Visualizations/grade_progression.png)
+
+### 7. Correlation Heatmap
+![Correlation Heatmap](Visualizations/correlation_heatmap.png)
+
